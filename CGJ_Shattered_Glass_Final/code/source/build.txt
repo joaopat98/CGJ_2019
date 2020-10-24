@@ -1,0 +1,5 @@
+To build the project follow these steps:
+- open "CGJ_Shattered_Glass.sln" with VS2019
+- change the solution configuration to "Release"
+- go to "Build" and select "Build Solution"
+After this the final build files can be found in "code/source/x64/Release"
